@@ -1,0 +1,13 @@
+C:\Users\millr\source\repos\Lab 08 Get To Know Your Classmates\Lab 08 Get To Know Your Classmates\bin\Debug\netcoreapp3.1\Lab 08 Get To Know Your Classmates.exe
+C:\Users\millr\source\repos\Lab 08 Get To Know Your Classmates\Lab 08 Get To Know Your Classmates\bin\Debug\netcoreapp3.1\Lab 08 Get To Know Your Classmates.deps.json
+C:\Users\millr\source\repos\Lab 08 Get To Know Your Classmates\Lab 08 Get To Know Your Classmates\bin\Debug\netcoreapp3.1\Lab 08 Get To Know Your Classmates.runtimeconfig.json
+C:\Users\millr\source\repos\Lab 08 Get To Know Your Classmates\Lab 08 Get To Know Your Classmates\bin\Debug\netcoreapp3.1\Lab 08 Get To Know Your Classmates.runtimeconfig.dev.json
+C:\Users\millr\source\repos\Lab 08 Get To Know Your Classmates\Lab 08 Get To Know Your Classmates\bin\Debug\netcoreapp3.1\Lab 08 Get To Know Your Classmates.dll
+C:\Users\millr\source\repos\Lab 08 Get To Know Your Classmates\Lab 08 Get To Know Your Classmates\bin\Debug\netcoreapp3.1\Lab 08 Get To Know Your Classmates.pdb
+C:\Users\millr\source\repos\Lab 08 Get To Know Your Classmates\Lab 08 Get To Know Your Classmates\obj\Debug\netcoreapp3.1\Lab 08 Get To Know Your Classmates.csprojAssemblyReference.cache
+C:\Users\millr\source\repos\Lab 08 Get To Know Your Classmates\Lab 08 Get To Know Your Classmates\obj\Debug\netcoreapp3.1\Lab 08 Get To Know Your Classmates.csproj.CoreCompileInputs.cache
+C:\Users\millr\source\repos\Lab 08 Get To Know Your Classmates\Lab 08 Get To Know Your Classmates\obj\Debug\netcoreapp3.1\Lab 08 Get To Know Your Classmates.AssemblyInfoInputs.cache
+C:\Users\millr\source\repos\Lab 08 Get To Know Your Classmates\Lab 08 Get To Know Your Classmates\obj\Debug\netcoreapp3.1\Lab 08 Get To Know Your Classmates.AssemblyInfo.cs
+C:\Users\millr\source\repos\Lab 08 Get To Know Your Classmates\Lab 08 Get To Know Your Classmates\obj\Debug\netcoreapp3.1\Lab 08 Get To Know Your Classmates.dll
+C:\Users\millr\source\repos\Lab 08 Get To Know Your Classmates\Lab 08 Get To Know Your Classmates\obj\Debug\netcoreapp3.1\Lab 08 Get To Know Your Classmates.pdb
+C:\Users\millr\source\repos\Lab 08 Get To Know Your Classmates\Lab 08 Get To Know Your Classmates\obj\Debug\netcoreapp3.1\Lab 08 Get To Know Your Classmates.genruntimeconfig.cache
